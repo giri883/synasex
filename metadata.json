@@ -1,0 +1,6 @@
+{
+  "name": "SynaseX",
+  "description": "Your Digital Student Hub — One Hub. Every Student Need. Connect study, communication, social, payments, entertainment, productivity, and AI tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
